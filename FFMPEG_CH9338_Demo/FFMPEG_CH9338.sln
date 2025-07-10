@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FFMPEG_CH9338_player", "FFMPEG_CH9338\FFMPEG_CH9338.vcxproj", "{DAB8E1E8-BBE4-4541-8409-D87973765BC8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FFMPEG_CH9338_screen_recording", "FFMPEG_CH9338_screen_recording\FFMPEG_CH9338_screen_recording.vcxproj", "{F420F804-318B-434A-B93F-492C7343BEB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB8E1E8-BBE4-4541-8409-D87973765BC8}.Debug|x64.ActiveCfg = Debug|x64
+		{DAB8E1E8-BBE4-4541-8409-D87973765BC8}.Debug|x64.Build.0 = Debug|x64
+		{DAB8E1E8-BBE4-4541-8409-D87973765BC8}.Debug|x86.ActiveCfg = Debug|Win32
+		{DAB8E1E8-BBE4-4541-8409-D87973765BC8}.Debug|x86.Build.0 = Debug|Win32
+		{DAB8E1E8-BBE4-4541-8409-D87973765BC8}.Release|x64.ActiveCfg = Release|x64
+		{DAB8E1E8-BBE4-4541-8409-D87973765BC8}.Release|x64.Build.0 = Release|x64
+		{DAB8E1E8-BBE4-4541-8409-D87973765BC8}.Release|x86.ActiveCfg = Release|Win32
+		{DAB8E1E8-BBE4-4541-8409-D87973765BC8}.Release|x86.Build.0 = Release|Win32
+		{F420F804-318B-434A-B93F-492C7343BEB9}.Debug|x64.ActiveCfg = Debug|x64
+		{F420F804-318B-434A-B93F-492C7343BEB9}.Debug|x64.Build.0 = Debug|x64
+		{F420F804-318B-434A-B93F-492C7343BEB9}.Debug|x86.ActiveCfg = Debug|Win32
+		{F420F804-318B-434A-B93F-492C7343BEB9}.Debug|x86.Build.0 = Debug|Win32
+		{F420F804-318B-434A-B93F-492C7343BEB9}.Release|x64.ActiveCfg = Release|x64
+		{F420F804-318B-434A-B93F-492C7343BEB9}.Release|x64.Build.0 = Release|x64
+		{F420F804-318B-434A-B93F-492C7343BEB9}.Release|x86.ActiveCfg = Release|Win32
+		{F420F804-318B-434A-B93F-492C7343BEB9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {736AC40A-2744-4B46-A8E3-E1D1676B7173}
+	EndGlobalSection
+EndGlobal
